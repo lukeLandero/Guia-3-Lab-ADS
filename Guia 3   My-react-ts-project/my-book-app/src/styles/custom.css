@@ -1,0 +1,35 @@
+/* src/styles/custom.css */
+
+.navbar-brand {
+    color: #FFA500 !important; /* Naranja */
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #FFA500 !important;
+    border-color: #FFA500 !important;
+    color: #000 !important;
+  }
+  
+  .card-title {
+    color: #000;
+  }
+  
+  .card-subtitle, .card-text small {
+    color: #000 !important; /* Autor y publicado en negro */
+  }
+  
+  .pagination .page-item.active .page-link {
+    background-color: #FFA500 !important;
+    border-color: #FFA500 !important;
+    color: #000 !important;
+  }
+  
+  .pagination .page-link {
+    color: #000;
+  }
+  
+  footer p {
+    color: #FFA500;
+    font-weight: bold;
+  }   
